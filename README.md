@@ -8,8 +8,8 @@
 + Kurs eğitmeni **Kaan Aslan**'dır.
 
 ## Kursla ilgili bağlantılar:
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-tanıtımı.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/edit/master/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-14-Agustos-2023/blob/main/kurs-tan%C4%B1t%C4%B1m%C4%B1.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-14-Agustos-2023/blob/main/kurs-icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-14-Agustos-2023/blob/main/sss.md)
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZ0odOqrrzoiGdF17acBK0CEOEjvnp2Ud1TM)
+[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZAqf-6prDotGdEr-YwS1Do5tKuCzkITw7_5)

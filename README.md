@@ -1,4 +1,4 @@
-# Online-Cplusplus-Programlama-Dili-Kursu-14-Agustos-2023
+# Online-C++-Programlama-Dili-Kursu-14-Agustos-2023
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) ve _Sistem Bilgisayar Hizmetleri_ işbirliği ile düzenlenmektedir.
 + Kurs __14 Ağustos 2023 Pazartesi__ günü başlayacaktır.

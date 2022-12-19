@@ -22,7 +22,7 @@
 Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede _C_ bilmeniz gerekmektedir. 
 
 ## Eğitim Süresi
-Programın toplam süresi __160__ saattir. 
+Programın toplam süresi __220__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler __Pazartesi ve Çarşamba__ günleri __19:45 – 22:45__ saatleri arasında __3’er saat__ olarak yapılacaktır.
@@ -50,4 +50,4 @@ __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle payl
 Kursumuzun toplam ücreti KDV dahil 11.400 TL’dir (Peşin ödemede 10.000 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 10.260 TL’dir (peşin ödemede 9.250 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Eğitim Programına Kayıt
-__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZIufumqqDopG9FiVZvOJXKkhQYGvYXAPN4p)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+__[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZAqf-6prDotGdEr-YwS1Do5tKuCzkITw7_5)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.

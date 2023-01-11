@@ -1,4 +1,4 @@
-# Online-C++-Programlama-Dili-Kursu-14-Agustos-2023
+# Online C++ Programlama Dili Kursu - 14 Agustos 2023
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) ve _Sistem Bilgisayar Hizmetleri_ işbirliği ile düzenlenmektedir.
 + Kurs __14 Ağustos 2023 Pazartesi__ günü başlayacaktır.
@@ -12,4 +12,4 @@
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-14-Agustos-2023/blob/main/kurs-icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-14-Agustos-2023/blob/main/sss.md)
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZAqf-6prDotGdEr-YwS1Do5tKuCzkITw7_5)
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZAqf-6prDotGdEr-YwS1Do5tKuCzkITw7_5)

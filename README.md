@@ -4,7 +4,7 @@
 + Kurs __14 Ağustos 2023 Pazartesi__ günü başlayacaktır.
 + Dersler __Pazartesi ve Çarşamba__ günleri saat __19:45-22:45__ arasında yapılacaktır.
 + Kursun toplam süresi __220__ saattir.
-+ Kursumuzun toplam ücreti KDV dahil  __11.400__ TL’dir (Peşin ödemede __10.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __10.260__ TL’dir (peşin ödemede __9.250__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
++ Kursumuzun toplam ücreti KDV dahil  __13.000__ TL’dir (Peşin ödemede __11.700__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __11.500__ TL’dir (peşin ödemede __10.350__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 + Kurs eğitmeni **Kaan Aslan**'dır.
 
 ## Kursla ilgili bağlantılar:

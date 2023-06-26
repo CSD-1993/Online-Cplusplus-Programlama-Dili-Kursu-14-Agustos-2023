@@ -47,7 +47,7 @@ Kurs C ve Sistem Programcıları Derneği başkanı Kaan ASLAN tarafından veril
 __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Kursumuzun toplam ücreti KDV dahil 11.400 TL’dir (Peşin ödemede 10.000 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 10.260 TL’dir (peşin ödemede 9.250 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+Kursumuzun toplam ücreti KDV dahil 13.000 TL’dir (Peşin ödemede 11.700 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 11.500 TL’dir (peşin ödemede 10.350 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZAqf-6prDotGdEr-YwS1Do5tKuCzkITw7_5)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
